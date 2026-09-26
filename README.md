@@ -1,5 +1,5 @@
 # Pictoblox로 게임 만들기 1주차
-## Cookie Run
+> Cookie Run
 
 ## 오늘의 할 일
 1. 쿠키 캐릭터 정하기
